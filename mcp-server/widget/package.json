@@ -1,0 +1,24 @@
+{
+  "name": "mcp-oauth-demo-widget",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsx ./build.mts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/ext-apps": "^1.0.1",
+    "marked": "^15.0.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "@vitejs/plugin-react": "^4.5.2",
+    "fast-glob": "^3.3.3",
+    "tailwindcss": "^4.1.11",
+    "tsx": "^4.20.4",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.1"
+  },
+  "packageManager": "pnpm@10.13.1"
+}
